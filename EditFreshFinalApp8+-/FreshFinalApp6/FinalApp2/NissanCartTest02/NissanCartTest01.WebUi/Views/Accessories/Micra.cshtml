@@ -1,0 +1,32 @@
+﻿@model NissanCartTest01.WebUi.Models.Accessories
+@using NissanCartTest01.WebUi.Models;
+
+@{
+    ViewBag.Title = "Micra";
+}
+
+<h2>Micra Accessories</h2>
+
+
+<table>
+    <tr><th>Interior</th></tr>
+    @foreach (Accessories p in ViewBag.mlsearch)
+    {
+        if (@p.Categories == "Interior")
+        {
+
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Description</td>
+                <td>@p.Price</td>
+                <td>
+                    @Html.ActionLink("Add Accessory", "AddAccessories",
+        "Accessories", new { id = @p.Id }, "")
+            </td>
+        </tr>
+        }
+
+    }
+</table>
+
+

@@ -1,0 +1,43 @@
+﻿@model NissanCartTest01.WebUi.Models.VehCat
+
+@{
+    ViewBag.Title = "Vehicle - " + Model.Name;
+}
+
+<h2>@Model.Name</h2>
+
+<p>
+    <img alt="@Model.Name" src="@Model.AlbumArtUrl" /><br/>
+</p>
+
+<div id="album-details">
+    <p>
+        <em>Category:</em>
+        @Model.Genre.Name
+    </p>
+</div>
+
+@Model.Name  &nbsp @Model.Model  &nbsp R @String.Format("{0:F}", Model.Price)<br />
+<div>
+
+
+
+    <table>
+        <tr><td><table><tr><th>Engine</th></tr><tr><td>Power Maximum :</td> <td>@Model.PowerMaximum</td></tr><tr><td>Torque Maximum :</td> <td>@Model.TorqueMaximum</td></tr><tr><td>Max Speed :</td> <td>@Model.MaxSpeed</td></tr><tr><td>Acceleration :</td> <td>@Model.Acceleration</td></tr><tr><td>Transmission Type :</td> <td>@Model.Transmission</td></tr></table></td>                         <td><table><tr><th>Fuel</th></tr><tr><td><b>Fuel Type :</b></td> <td>@Model.FuelType</td></tr><tr><td>Fuel Consumption :</td> <td>@Model.FuelConsumption</td></tr><tr><td>Co2 Emissions :</td> <td>@Model.C02Emissions</td></tr><tr><td>Fuel Tank Capacity :</td> <td>@Model.FuelTankCapacity</td></tr><tr><td>Fuel Range :</td> <td>@Model.FuelRange</td></tr></table></td></tr>
+        <tr><td><table><tr><th>Body Type</th></tr><tr><td>Segment :</td> <td>@Model.Segment</td></tr><tr><td>No of Doors :</td> <td>@Model.NumofDoors</td></tr><tr><td>No of Seats :</td> <td>@Model.NumofSeats</td></tr><tr><td>Load Volume :</td> <td>@Model.LoadVolume</td></tr></table></td>                     <td><table><tr><th>Safety</th><tr><td align="left">No of Airbags :</td> <td>@Model.NumofAirbags</td></tr><tr><td>ABS :</td> <td>@Model.ABS</td></tr><tr><td>Traction Control :</td> <td>@Model.TractionControl</td></tr><tr><td>Load Volume :</td> <td>@Model.StabilityControl</td></tr></table></td></tr>
+        <tr><td><table><tr><th>Warranty</th><tr><td>Warranty Time :</td> <td>@Model.WarrantyDuration</td></tr><tr><td>Warranty Distance :</td> <td>@Model.WarrantyDistance</td></tr></table></td>                     <td><table><tr><th>Service</th><tr><td>Service Plan :</td> <td>@Model.ServicePlan</td></tr><tr><td>Service Distance :</td> <td>@Model.ServiceDistance</td></tr><tr><td>Maintanence Plan :</td> <td>@Model.MaintenancePlan</td></tr><tr><td>Maintanence Distance :</td> <td>@Model.MaintenanceDistance</td></tr></table></td></tr>
+
+        
+
+    </table>
+
+
+</div>
+<br />
+
+<div>
+    <p class="button">
+        @Html.ActionLink("Add to cart", "AddToCart",
+        "AccCart", new { id = Model.VehicleId }, "")
+    </p>
+</div>

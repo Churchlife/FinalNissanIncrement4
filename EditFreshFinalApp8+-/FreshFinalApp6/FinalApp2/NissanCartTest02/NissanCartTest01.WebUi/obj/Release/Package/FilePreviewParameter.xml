@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="nissanonline" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\21337772\\Desktop\\EditFreshFinalApp7\\FreshFinalApp6\\FinalApp2\\NissanCartTest02\\NissanCartTest01\.WebUi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\21337772\\Desktop\\EditFreshFinalApp7\\FreshFinalApp6\\FinalApp2\\NissanCartTest02\\NissanCartTest01\.WebUi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Server=tcp:nissanserver.database.windows.net,1433;Initial Catalog=nissanappdb;Persist Security Info=False;User ID=ds3nissan;Password=DTni$$an;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\21337772\\Desktop\\EditFreshFinalApp7\\FreshFinalApp6\\FinalApp2\\NissanCartTest02\\NissanCartTest01\.WebUi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="NissanCart.Domain.Concrete.NissanContext-Web.config Connection String" description="" value="Server=tcp:nissanserver.database.windows.net,1433;Initial Catalog=nissanappdb;Persist Security Info=False;User ID=ds3nissan;Password=DTni$$an;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\21337772\\Desktop\\EditFreshFinalApp7\\FreshFinalApp6\\FinalApp2\\NissanCartTest02\\NissanCartTest01\.WebUi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NissanCart.Domain.Concrete.NissanContext']/@connectionString" />
+  </parameter>
+  <parameter name="NissanCartTest01.WebUi.Models.Nissan01Context-Web.config Connection String" description="" value="Server=tcp:nissanserver.database.windows.net,1433;Initial Catalog=nissanappdb;Persist Security Info=False;User ID=ds3nissan;Password=DTni$$an;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\21337772\\Desktop\\EditFreshFinalApp7\\FreshFinalApp6\\FinalApp2\\NissanCartTest02\\NissanCartTest01\.WebUi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='NissanCartTest01.WebUi.Models.Nissan01Context']/@connectionString" />
+  </parameter>
+</parameters>

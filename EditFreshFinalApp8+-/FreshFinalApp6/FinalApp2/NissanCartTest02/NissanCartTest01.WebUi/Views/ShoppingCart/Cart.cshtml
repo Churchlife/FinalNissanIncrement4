@@ -1,0 +1,72 @@
+﻿@using NissanCartTest01.WebUi.Models;
+@{
+    ViewBag.Title = "Cart";
+}
+
+<h2>Cart</h2>
+@using (Html.BeginForm("Update", "ShoppingCart", FormMethod.Post))
+{
+
+
+    <table cellspacing="2" border="1">
+        <tr>
+            <td colspan="6" align="center"><h3>More Parts ?</h3></td>
+        </tr>
+        <tr><td colspan="6" align="center"><h4>@Html.ActionLink("All", "Index", "Parts")</h4></td></tr>
+        <tr>
+            <td><h5>@Html.ActionLink("Under Bonnet", "UnderBonnet", "Parts")</h5></td>
+            <td><h5>@Html.ActionLink("Chassis", "Chassis", "Parts")</h5></td>
+            <td><h5>@Html.ActionLink("Wheels", "Wheels", "Parts")</h5></td>
+            <td><h5>@Html.ActionLink("Electrical", "Electrical", "Parts")</h5></td>
+            <td><h5>@Html.ActionLink("Internal", "Internal", "Parts")</h5></td>
+            <td><h5>@Html.ActionLink("External", "External", "Parts")</h5></td>
+
+
+        </tr>
+        <tr>
+            <th>Option</th>
+            <th>Id</th>
+            <th>Vehicle</th>
+            <th>Part Name</th>
+            <th>Price</th>
+            <th>Quantity<input type="submit" value="Update" /></th>
+            <th>Sub Total</th>
+        </tr>
+        @{
+            decimal s = 0;
+            int index = 1;
+        }
+
+        @foreach (Item item in (List<Item>)Session["cart"])
+        {
+            s += item.Parts.price * item.Quantity;
+            <tr>
+                <td>@Html.ActionLink("Delete", "Delete", "ShoppingCart", new { id = item.Parts.PartID }, null) </td>
+                <td>@item.Parts.PartID</td>
+                <td>@item.Parts.Vehicle</td>
+                <td>@item.Parts.PartName</td>
+                <td>@item.Parts.price</td>
+                <td><input type="text" name="quantity" value="@item.Quantity" /></td>
+                <td>
+                    @(item.Parts.price * item.Quantity)
+
+                    @*<input type="hidden" name="item_name_@index" value="Sam Pham 1"/>
+                        <input type="hidden" name="item_number_@index" value="1"/>
+                        <input type="hidden" name="amount_@index" value="=100"/>
+                        <input type="hidden" name="quantity_@index" value="2"/>*@
+                    @{ index++;}
+                </td>
+
+            </tr>
+                        }
+        <tr>
+            <td align="center" colspan="6">Total Amount</td>
+            <td align="center">@s</td>
+        </tr>
+
+    </table>
+                        }
+<br /><br />
+
+@Html.ActionLink("Done", "Done", "ShoppingCart")
+

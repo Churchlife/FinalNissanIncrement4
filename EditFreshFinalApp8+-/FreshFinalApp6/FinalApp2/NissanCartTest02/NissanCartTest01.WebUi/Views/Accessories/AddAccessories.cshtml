@@ -1,0 +1,31 @@
+﻿@model Niscat.Models.Accessories
+    @using Niscat.Models;
+@{
+    ViewBag.Title = "AddAccessories";
+}
+
+<h2>AddAccessories</h2>
+
+<table>
+    <tr><th>Accessories Chosen for Your Vehicle</th></tr>
+    @foreach (Accessories p in ViewBag.acco)
+    {
+        if (@p.Categories == "Interior")
+        {
+
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Description</td>
+                <td>@p.Price</td>
+                <td>
+                    @Html.ActionLink("Add Accessory", "AddAccessories",
+        "Accessories", new { id = @p.Id }, "")
+            </td>
+        </tr>
+        }
+
+    }
+</table>
+
+
+

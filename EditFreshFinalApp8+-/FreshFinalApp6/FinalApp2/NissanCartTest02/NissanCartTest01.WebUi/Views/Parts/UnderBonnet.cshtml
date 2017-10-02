@@ -1,0 +1,35 @@
+﻿@model NissanCartTest01.WebUi.Models.Parts
+@using NissanCartTest01.WebUi.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Under Bonnet</h2>
+
+
+
+<table cellpadding="2" cellspacing="2" border="1">
+    <tr>
+        
+        <th>Vehicle</th>
+        <th>Name</th>
+        <th>Image</th>
+        <th>Price</th>
+        <th>Buy</th>
+    </tr>
+    @foreach (Parts p in ViewBag.listcat1)
+    {
+        if (p.CategoryName == "Under Bonnet")
+        {
+            <tr>
+                
+                <td>@p.Vehicle</td>
+                <td>@p.PartName</td>
+                <td>@p.ArtUrlImage</td>
+                <td>@p.price</td>
+                <td align="center">@Html.ActionLink("Order Now", "OrderNow", "ShoppingCart", new { id = p.PartID }, null)</td>
+            </tr>
+        }
+    }
+</table>

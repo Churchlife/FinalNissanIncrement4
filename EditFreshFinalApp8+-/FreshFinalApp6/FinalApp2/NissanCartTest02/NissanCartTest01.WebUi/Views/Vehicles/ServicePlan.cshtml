@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "ServicePlan";
+}
+
+<h2>Select Service Plan Type</h2>
+
+@using (Html.BeginForm("ServicePlan", "Vehicles"))
+{
+   <p>
+    <button name="button" value="Standard" >Standard</button>
+    <button name="button" value="Custom">Custom</button>
+    </p>
+}
+
+

@@ -1,0 +1,71 @@
+﻿
+@using NissanCartTest01.WebUi.Models;
+
+@{
+    ViewBag.Title = "Cart";
+}
+
+<h2>Cart</h2>
+@using (Html.BeginForm("Update", "Accessories", FormMethod.Post))
+{
+
+
+    <table cellspacing="2" border="1">
+        
+
+        <tr>
+
+            <td><h5>Accessory</h5></td>
+            <td><h5>Price</h5></td>
+
+
+        </tr>
+
+        @{
+            decimal s = 0;
+            int index = 1;
+        }
+
+        @foreach (AccItem item in (List<AccItem>)Session["acccart"])
+        {
+            s += item.Accessories.Price * item.Quantity;
+            <tr>
+                <td>@Html.ActionLink("Delete", "Delete", "ShoppingCart", new { id = item.Accessories.Id }, null) </td>
+
+                <td>@item.Accessories.Categories</td>
+                <td>@item.Accessories.Name</td>
+                <td>@item.Accessories.Option</td>
+                <td>@item.Accessories.Description</td>
+                <td>@item.Accessories.Price</td>
+
+                <td><input type="text" name="quantity" value="@item.Quantity" /></td>
+                <td>
+                    @(item.Accessories.Price * item.Quantity)
+
+                    @*<input type="hidden" name="item_name_@index" value="Sam Pham 1"/>
+                        <input type="hidden" name="item_number_@index" value="1"/>
+                        <input type="hidden" name="amount_@index" value="=100"/>
+                        <input type="hidden" name="quantity_@index" value="2"/>*@
+                    @{ index++;}
+                </td>
+
+            </tr>
+                        }
+        <tr>
+            <td align="center" colspan="6">Total Amount</td>
+            <td align="center">@s</td>
+        </tr>
+
+    </table>
+                        }
+
+
+
+
+<p>
+    Are You done adding Accessories ?
+</p>
+@Html.ActionLink("No Take Me Back", "More", "Accessories")<br />
+
+@Html.ActionLink("Yes", "save", "Accessories")
+

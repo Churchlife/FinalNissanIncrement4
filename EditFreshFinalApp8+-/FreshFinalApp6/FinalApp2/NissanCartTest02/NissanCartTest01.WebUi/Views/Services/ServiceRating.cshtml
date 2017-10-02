@@ -1,0 +1,149 @@
+﻿@model NissanCartTest01.WebUi.Models.Service
+
+@{
+    ViewBag.Title = "ServiceRating";
+}
+
+<h2>ServiceRating</h2>
+
+<div>
+    <h4>Service</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.JobCard.Techfaults)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.JobCard.Techfaults)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pass)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pass)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Reason)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Reason)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BetweenTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BetweenTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.rating)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.rating)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffID)
+        </dd>
+
+    </dl>
+</div>
+
+
+@*<p>
+    @using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+    {
+        <input type="text" name="txtRatingValue" hidden value="1" />
+        <i class="fa fa-star">
+            <input type="submit" value=""/>
+        </i>
+    }
+</p>*@
+
+
+
+<div class="form-group">
+    <div>
+        @*<form action="EnterRating" method="post">*@
+@using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+{
+             <h4>Just click on the icon which you would like to rate us.</h4>
+            <br />
+            <h4>The larger the GTR Logo, the higher the rating.</h4>
+            <br />
+            <button title="Poor" name="one" value="one"><img src="~/Content/G1.png" width="42" height="42" /></button>
+            <button title="Bad" name="two" value="two"><img src="~/Content/G1.png" width="55" height="55" /></button>
+            <button title="Satisfactory" name="three" value="three"><img src="~/Content/G1.png" width="70" height="70" /></button>
+            <button title="Good" name="four" value="four"><img src="~/Content/G1.png" width="80" height="80" /></button>
+            <button title="Excellent" name="five" value="five"><img src="~/Content/G1.png" width="93" height="93" /></button>
+        @*</form>*@
+        }
+    </div>
+</div>
+    
+
+
+
+@*<p>
+    @using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+    {
+        <img src="/Content/favourite(1).png" />
+        <input type="text" name="txtRatingValue" hidden value="2"/>
+        <input type="submit" value="Enter Rating" />
+    }
+</p>
+
+<p>
+    @using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+    {
+       
+        <input type="text" name="txtRatingValue" hidden value="3"><img src="/Content/favourite(1).png" /><input/>
+        <input type="submit" value="Enter Rating" />
+    }
+</p>
+
+<p>
+    @using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+    {
+        <img src="/Content/favourite(1).png" />
+        <input type="text" name="txtRatingValue" hidden value="4"/>
+        <input type="submit" value="Enter Rating" />
+    }
+</p>
+
+<p>
+    @using (Html.BeginForm("EnterRating", "Services", new { id = Model.ServiceID }))
+    {
+        <img src="/Content/favourite(1).png" />
+        <input type="text" name="txtRatingValue" hidden value="5"/>
+        <input type="submit" value="Enter Rating" />
+    }
+</p>*@

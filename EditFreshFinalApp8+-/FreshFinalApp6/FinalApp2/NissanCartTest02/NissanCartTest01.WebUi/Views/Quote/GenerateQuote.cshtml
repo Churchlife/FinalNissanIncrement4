@@ -1,0 +1,88 @@
+﻿@using NissanCartTest01.WebUi.Models
+@model Tuple<Payment, IEnumerable<VehCat>, VehicleForSale, Customer, Order, IEnumerable<OrderDetail>, IEnumerable<Cart>, IEnumerable<Genre>>
+
+@{
+    ViewBag.Title = "GenerateQuote";
+}
+
+<h2>GenerateQuote</h2>
+
+<div>
+    <h4>Payment</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Item4.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item4.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Item4.Surname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item4.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Item4.Physical_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item4.Physical_Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Item4.Postal_Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item4.Postal_Address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Item2.Make)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item2.Make)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Item2.Model)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item2.Model)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Item2.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item2.Price)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Item2.YearMade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item2.YearMade)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Item1.PaymentID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Item1.PaymentID)
+        </dd>
+    </dl>
+</div>
+<p>
+    @using (Html.BeginForm("SendMail", "Quote", new { id = Model.Item1.PaymentID }))
+    {
+        <input class="btn btn-primary" type="submit" value="Email Quote" />
+    }
+</p>

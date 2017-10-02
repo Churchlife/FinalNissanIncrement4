@@ -1,0 +1,80 @@
+﻿@model IEnumerable<NissanCartTest01.WebUi.Models.Orders>
+
+@{
+    ViewBag.Title = "Orders";
+}
+
+<h2>Orders</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.JobCard.Techfaults)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.partID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MyProperty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.quantity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.JobCard.Techfaults)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.partID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MyProperty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.quantity)
+        </td>
+        <td>
+            @Ajax.ActionLink("Approve", "OrderApproval",
+            new { id = item.JobCardId },
+            new AjaxOptions
+            {
+                HttpMethod = "POST",
+                OnBegin = "Begin",
+                OnComplete = "Complete",
+                OnFailure = "Failure"
+            }, new { @class = "btn btn-primary", @id = item.JobCardId})
+        </td>
+    </tr>
+}
+
+</table>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script>
+    function Begin() {
+        $(this).text('Pending...');
+    }
+    function Complete() {
+        var $self = $(this);
+        $self.text('Ordered!');
+        var $id = $self.attr('id');
+        window.location.href = '/Services/Orders/' + $id;
+    }
+    function Failure() {
+        var $self = $(this);
+        $self.removeClass('btn-primary');
+        $self.addClass('btn-danger');
+        $self.text('Failed!');
+    }
+</script>

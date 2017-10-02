@@ -1,0 +1,99 @@
+﻿@model IEnumerable<NissanCartTest01.WebUi.Models.Service>
+
+@{
+    ViewBag.Title = "CustomerRecords";
+}
+
+<h2>CustomerRecords</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.JobCard.Techfaults)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BetweenTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rating)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.JobCard.Techfaults)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reason)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BetweenTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rating)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffID)
+        </td>
+        <td>
+            @Html.ActionLink("Rate", "ServiceRating", new { id = item.ServiceID })
+            @*@Ajax.ActionLink("Rating", "CreateServiceCard",
+            new { id = item.ServiceID },
+            new AjaxOptions
+            {
+                HttpMethod = "POST",
+                OnBegin = "Begin",
+                OnComplete = "Complete",
+                OnFailure = "Failure"
+            }, new { @class = "btn btn-primary", @id = item.ServiceID })*@
+        </td>
+        
+    </tr>
+}
+
+</table>
+@*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script>
+    function Begin() {
+        $(this).text('Processing...');
+    }
+    function Complete() {
+        var $self = $(this);
+        $self.text('Done!');
+        var $id = $self.attr('id');
+        window.location.href = '/Services/ServiceRating/' + $id;
+    }
+    function Failure() {
+        var $self = $(this);
+        $self.removeClass('btn-primary');
+        $self.addClass('btn-danger');
+        $self.text('Failed!');
+    }
+</script>*@

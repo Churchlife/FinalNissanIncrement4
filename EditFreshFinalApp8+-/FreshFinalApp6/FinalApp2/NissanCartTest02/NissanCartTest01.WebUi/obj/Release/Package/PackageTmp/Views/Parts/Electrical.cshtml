@@ -1,0 +1,38 @@
+﻿@model NissanCartTest01.WebUi.Models.Parts
+@using NissanCartTest01.WebUi.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Electrical</h2>
+
+
+
+<table cellpadding="2" cellspacing="2" border="1">
+    <tr>
+        <th>ID</th>
+        <th>Vehicle</th>
+        <th>Name</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Buy</th>
+    </tr>
+    @foreach (Parts p in ViewBag.listcat4)
+    {
+        if (p.CategoryName == "Electrical")
+        {
+            <tr>
+                <td>@p.PartID</td>
+                <td>@p.Vehicle</td>
+                <td>@p.PartName</td>
+                <td>@p.CategoryId</td>
+                <td>@p.price</td>
+                <td align="center">@Html.ActionLink("Order Now", "OrderNow", "ShoppingCart", new { id = p.PartID }, null)</td>
+            </tr>
+        }
+    }
+</table>
+
+
+

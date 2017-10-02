@@ -1,0 +1,402 @@
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\ApplicationInsights.config
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\csc.exe
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\vbc.exe
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll.config
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.pdb
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Owin.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebActivatorEx.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebGrease.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.pdb
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.pdb
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.csproj.GenerateResource.Cache
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.dll
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.pdb
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.csprojResolveAssemblyReference.cache
+C:\Users\DS3 admin\Desktop\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.Migrations.TenthMigration.resources
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\ApplicationInsights.config
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\csc.exe
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Collections.Immutable.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Reflection.Metadata.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\vbc.exe
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe.config
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll.config
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.pdb
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Web.Infrastructure.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Owin.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebActivatorEx.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebGrease.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.pdb
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.pdb
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.csprojResolveAssemblyReference.cache
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.dll
+E:\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\ApplicationInsights.config
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\csc.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\vbc.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll.config
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebActivatorEx.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebGrease.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.csprojResolveAssemblyReference.cache
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp6\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\ApplicationInsights.config
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\csc.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\vbc.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll.config
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCartTest01.WebUi.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Owin.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebActivatorEx.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\WebGrease.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\NissanCart.Domain.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Castle.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\DHTMLX.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.Web.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Moq.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Common.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Ninject.Web.Mvc.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Helpers.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Mvc.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Optimization.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.Razor.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\System.Web.WebPages.Razor.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Antlr3.Runtime.pdb
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Newtonsoft.Json.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.csprojResolveAssemblyReference.cache
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.dll
+C:\Users\21337772\Desktop\EditFreshFinalApp7\FreshFinalApp6\FinalApp2\NissanCartTest02\NissanCartTest01.WebUi\obj\Release\NissanCartTest01.WebUi.pdb

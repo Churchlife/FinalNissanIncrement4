@@ -1,0 +1,112 @@
+﻿@model IEnumerable<NissanCartTest01.WebUi.Models.Service>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+    <fieldset>
+        @*@using (Ajax.BeginForm("ServiceRecords", "Services",
+                                                new AjaxOptions
+                                                {
+                                                    HttpMethod = "POST",
+                                                    OnBegin = "Begin",
+                                                    OnComplete = "Complete",
+                                                    OnFailure = "Failure"
+                                                }))
+
+        {
+            <p>
+                @Html.TextBox("txtTechname")
+                   <button>Search</button>
+               </p>     
+        }*@
+        @using (Html.BeginForm("Index", "Services"))
+        {
+            @Html.TextBox("txtTechname")
+            <input type="submit" value="Search" />
+        }
+    </fieldset>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.JobCard.Techfaults)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffID)
+        </th>
+        <th>
+            @Html.Label("Total Time  (HH:MM:SS:MS)")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.commission) @Html.Label("Percentage")
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.JobCard.Techfaults)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reason)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BetweenTime)
+            @*@(item.EndTime - item.StartTime)*@
+          @*@ViewBag.Time*@
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.commission)
+        </td>
+        
+    </tr>
+}
+
+</table>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script>
+    function Begin() {
+        $(this).text('Processing...');
+    }
+    function Complete() {
+        var $self = $(this);
+        $self.text('Done!');
+        var $id = $self.attr('')
+        window.location.href = '/Services/ServiceRecords/';
+    }
+        function Failure() {
+            var $self = $(this);
+            $self.removeClass('btn-primary');
+            $self.addClass('btn-danger');
+            $self.text('Failed!');
+        }
+</script>

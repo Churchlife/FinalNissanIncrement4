@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "VehicleCheckIn";
+}
+
+<h2>Vehicle Check In</h2>
+
+@using (Html.BeginForm("VehicleCheckIn", "Vehicles"))
+{
+    <p>
+        <button name="button" value="Existing">Existing</button>
+        <button name="button" value="New">New</button>
+    </p>
+}

@@ -1,0 +1,21 @@
+﻿@model NissanCartTest01.WebUi.Models.Genre
+
+@{
+    ViewBag.Title = "Browse Vehicles";
+}
+
+<div class="genre">
+    <h3><em>@Model.Name</em> Vehicles</h3>
+
+    <ul id="album-list">
+        @foreach (var vehcat in Model.VehCats)
+        {
+            <li>
+                <a href="@Url.Action("Details", new { id = vehcat.VehicleId })">
+                    <img alt="@vehcat.Name image" src="@vehcat.AlbumArtUrl" height="75" width="114"/>
+                    <span>@vehcat.Name</span>
+                </a>
+            </li>
+        }
+    </ul>
+</div>
